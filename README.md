@@ -2,6 +2,6 @@
 This is a simple rock-paper-scissor game.
 
 where,
-rock crushes sciccors,
+rock crushes scissors,
 scissors cuts paper,
 paper wraps rock.
